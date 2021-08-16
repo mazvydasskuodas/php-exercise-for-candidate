@@ -76,7 +76,7 @@ git clone https://github.com/ #TODO
 Install all the dependencies using composer
 
 ```shell script
-cd ./HtgPhpExercise
+cd ./php-exercise-for-candidate
 composer install
 ```
 
