@@ -1,0 +1,372 @@
+START!
+-------- day 0 --------
+name, rateIn, score
+Citycenter Motel, 10, 20
+Vintage Villa, 2, 0
+Grandmas Apartment, 5, 7
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 15, 20
+Fishermans Boat, 10, 49
+Fishermans Boat, 5, 49
+Forest Cabin, 3, 6
+
+-------- day 1 --------
+name, rateIn, score
+Citycenter Motel, 9, 19
+Vintage Villa, 1, 1
+Grandmas Apartment, 4, 6
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 14, 21
+Fishermans Boat, 9, 50
+Fishermans Boat, 4, 50
+Forest Cabin, 2, 5
+
+-------- day 2 --------
+name, rateIn, score
+Citycenter Motel, 8, 18
+Vintage Villa, 0, 2
+Grandmas Apartment, 3, 5
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 13, 22
+Fishermans Boat, 8, 50
+Fishermans Boat, 3, 50
+Forest Cabin, 1, 4
+
+-------- day 3 --------
+name, rateIn, score
+Citycenter Motel, 7, 17
+Vintage Villa, -1, 4
+Grandmas Apartment, 2, 4
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 12, 23
+Fishermans Boat, 7, 50
+Fishermans Boat, 2, 50
+Forest Cabin, 0, 3
+
+-------- day 4 --------
+name, rateIn, score
+Citycenter Motel, 6, 16
+Vintage Villa, -2, 6
+Grandmas Apartment, 1, 3
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 11, 24
+Fishermans Boat, 6, 50
+Fishermans Boat, 1, 50
+Forest Cabin, -1, 1
+
+-------- day 5 --------
+name, rateIn, score
+Citycenter Motel, 5, 15
+Vintage Villa, -3, 8
+Grandmas Apartment, 0, 2
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 10, 25
+Fishermans Boat, 5, 50
+Fishermans Boat, 0, 50
+Forest Cabin, -2, 0
+
+-------- day 6 --------
+name, rateIn, score
+Citycenter Motel, 4, 14
+Vintage Villa, -4, 10
+Grandmas Apartment, -1, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 9, 27
+Fishermans Boat, 4, 50
+Fishermans Boat, -1, 0
+Forest Cabin, -3, 0
+
+-------- day 7 --------
+name, rateIn, score
+Citycenter Motel, 3, 13
+Vintage Villa, -5, 12
+Grandmas Apartment, -2, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 8, 29
+Fishermans Boat, 3, 50
+Fishermans Boat, -2, 0
+Forest Cabin, -4, 0
+
+-------- day 8 --------
+name, rateIn, score
+Citycenter Motel, 2, 12
+Vintage Villa, -6, 14
+Grandmas Apartment, -3, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 7, 31
+Fishermans Boat, 2, 50
+Fishermans Boat, -3, 0
+Forest Cabin, -5, 0
+
+-------- day 9 --------
+name, rateIn, score
+Citycenter Motel, 1, 11
+Vintage Villa, -7, 16
+Grandmas Apartment, -4, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 6, 33
+Fishermans Boat, 1, 50
+Fishermans Boat, -4, 0
+Forest Cabin, -6, 0
+
+-------- day 10 --------
+name, rateIn, score
+Citycenter Motel, 0, 10
+Vintage Villa, -8, 18
+Grandmas Apartment, -5, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 5, 35
+Fishermans Boat, 0, 50
+Fishermans Boat, -5, 0
+Forest Cabin, -7, 0
+
+-------- day 11 --------
+name, rateIn, score
+Citycenter Motel, -1, 8
+Vintage Villa, -9, 20
+Grandmas Apartment, -6, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 4, 38
+Fishermans Boat, -1, 0
+Fishermans Boat, -6, 0
+Forest Cabin, -8, 0
+
+-------- day 12 --------
+name, rateIn, score
+Citycenter Motel, -2, 6
+Vintage Villa, -10, 22
+Grandmas Apartment, -7, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 3, 41
+Fishermans Boat, -2, 0
+Fishermans Boat, -7, 0
+Forest Cabin, -9, 0
+
+-------- day 13 --------
+name, rateIn, score
+Citycenter Motel, -3, 4
+Vintage Villa, -11, 24
+Grandmas Apartment, -8, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 2, 44
+Fishermans Boat, -3, 0
+Fishermans Boat, -8, 0
+Forest Cabin, -10, 0
+
+-------- day 14 --------
+name, rateIn, score
+Citycenter Motel, -4, 2
+Vintage Villa, -12, 26
+Grandmas Apartment, -9, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 1, 47
+Fishermans Boat, -4, 0
+Fishermans Boat, -9, 0
+Forest Cabin, -11, 0
+
+-------- day 15 --------
+name, rateIn, score
+Citycenter Motel, -5, 0
+Vintage Villa, -13, 28
+Grandmas Apartment, -10, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, 0, 50
+Fishermans Boat, -5, 0
+Fishermans Boat, -10, 0
+Forest Cabin, -12, 0
+
+-------- day 16 --------
+name, rateIn, score
+Citycenter Motel, -6, 0
+Vintage Villa, -14, 30
+Grandmas Apartment, -11, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -1, 0
+Fishermans Boat, -6, 0
+Fishermans Boat, -11, 0
+Forest Cabin, -13, 0
+
+-------- day 17 --------
+name, rateIn, score
+Citycenter Motel, -7, 0
+Vintage Villa, -15, 32
+Grandmas Apartment, -12, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -2, 0
+Fishermans Boat, -7, 0
+Fishermans Boat, -12, 0
+Forest Cabin, -14, 0
+
+-------- day 18 --------
+name, rateIn, score
+Citycenter Motel, -8, 0
+Vintage Villa, -16, 34
+Grandmas Apartment, -13, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -3, 0
+Fishermans Boat, -8, 0
+Fishermans Boat, -13, 0
+Forest Cabin, -15, 0
+
+-------- day 19 --------
+name, rateIn, score
+Citycenter Motel, -9, 0
+Vintage Villa, -17, 36
+Grandmas Apartment, -14, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -4, 0
+Fishermans Boat, -9, 0
+Fishermans Boat, -14, 0
+Forest Cabin, -16, 0
+
+-------- day 20 --------
+name, rateIn, score
+Citycenter Motel, -10, 0
+Vintage Villa, -18, 38
+Grandmas Apartment, -15, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -5, 0
+Fishermans Boat, -10, 0
+Fishermans Boat, -15, 0
+Forest Cabin, -17, 0
+
+-------- day 21 --------
+name, rateIn, score
+Citycenter Motel, -11, 0
+Vintage Villa, -19, 40
+Grandmas Apartment, -16, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -6, 0
+Fishermans Boat, -11, 0
+Fishermans Boat, -16, 0
+Forest Cabin, -18, 0
+
+-------- day 22 --------
+name, rateIn, score
+Citycenter Motel, -12, 0
+Vintage Villa, -20, 42
+Grandmas Apartment, -17, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -7, 0
+Fishermans Boat, -12, 0
+Fishermans Boat, -17, 0
+Forest Cabin, -19, 0
+
+-------- day 23 --------
+name, rateIn, score
+Citycenter Motel, -13, 0
+Vintage Villa, -21, 44
+Grandmas Apartment, -18, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -8, 0
+Fishermans Boat, -13, 0
+Fishermans Boat, -18, 0
+Forest Cabin, -20, 0
+
+-------- day 24 --------
+name, rateIn, score
+Citycenter Motel, -14, 0
+Vintage Villa, -22, 46
+Grandmas Apartment, -19, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -9, 0
+Fishermans Boat, -14, 0
+Fishermans Boat, -19, 0
+Forest Cabin, -21, 0
+
+-------- day 25 --------
+name, rateIn, score
+Citycenter Motel, -15, 0
+Vintage Villa, -23, 48
+Grandmas Apartment, -20, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -10, 0
+Fishermans Boat, -15, 0
+Fishermans Boat, -20, 0
+Forest Cabin, -22, 0
+
+-------- day 26 --------
+name, rateIn, score
+Citycenter Motel, -16, 0
+Vintage Villa, -24, 50
+Grandmas Apartment, -21, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -11, 0
+Fishermans Boat, -16, 0
+Fishermans Boat, -21, 0
+Forest Cabin, -23, 0
+
+-------- day 27 --------
+name, rateIn, score
+Citycenter Motel, -17, 0
+Vintage Villa, -25, 50
+Grandmas Apartment, -22, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -12, 0
+Fishermans Boat, -17, 0
+Fishermans Boat, -22, 0
+Forest Cabin, -24, 0
+
+-------- day 28 --------
+name, rateIn, score
+Citycenter Motel, -18, 0
+Vintage Villa, -26, 50
+Grandmas Apartment, -23, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -13, 0
+Fishermans Boat, -18, 0
+Fishermans Boat, -23, 0
+Forest Cabin, -25, 0
+
+-------- day 29 --------
+name, rateIn, score
+Citycenter Motel, -19, 0
+Vintage Villa, -27, 50
+Grandmas Apartment, -24, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -14, 0
+Fishermans Boat, -19, 0
+Fishermans Boat, -24, 0
+Forest Cabin, -26, 0
+
+-------- day 30 --------
+name, rateIn, score
+Citycenter Motel, -20, 0
+Vintage Villa, -28, 50
+Grandmas Apartment, -25, 0
+Highcorner Castle, 0, 80
+Highcorner Castle, -1, 80
+Fishermans Boat, -15, 0
+Fishermans Boat, -20, 0
+Fishermans Boat, -25, 0
+Forest Cabin, -27, 0
