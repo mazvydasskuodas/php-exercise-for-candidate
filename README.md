@@ -50,6 +50,8 @@ of the functionality (you can make the `updateScore` method and `RentalObject` p
 Just for clarification, a property can never have its `score` increase above 50, however "Highcorner Castle" is an
 exceptional one and its `score` is 80, and it never changes.
 
+Please create a seperate branch to work and after you are done create a pull request into master branch.
+
 ## Installation
 
 The exercise uses:
